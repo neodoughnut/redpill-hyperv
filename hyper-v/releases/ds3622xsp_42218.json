@@ -5,13 +5,13 @@
     {
       "name": "hyper-v-4.4.180.tgz",
       "url": "https://raw.githubusercontent.com/neodoughnut/redpill-hyperv/main/hyper-v/releases/hyper-v-4.4.180/hyper-v-4.4.180.tgz",
-      "sha256": "5a6639b9a901bb9cb424198262bf73521bd3a45b5d922b0e2abb922f29f57bc5",
+      "sha256": "6864A93B5CEFC2A23B774433008E8DEE240647026254C36B405C84EC998146F2",
       "packed": true
     },
     {
       "name": "check-hv_netvsc.sh",
       "url": "https://raw.githubusercontent.com/neodoughnut/redpill-hyperv/main/hyper-v/src/check-hv_netvsc.sh",
-      "sha256": "62053d1fa65851812db307c69f2cff39e62408b7e423c5a41433fb79104b0e05",
+      "sha256": "E5DCB8BE0F0124BA3AD394C6A262B26C836A737BCCDA5859D3349D619EAF0F52",
       "packed": false
     }
   ],
