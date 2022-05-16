@@ -1,0 +1,7 @@
+hid-hyperv
+hv_balloon
+hv_netvsc
+hv_storvsc
+hv_utils
+hv_vmbus
+hyperv_fb

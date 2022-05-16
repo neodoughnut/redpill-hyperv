@@ -1,0 +1,16 @@
+{
+  "id": "pocopico.hv_netvsc",
+  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/hv_netvsc/rpext-index.json",
+  "info": {
+    "name": "hv_netvsc",
+    "description": "Adds Microsoft Hyper-V Support",
+    "author_url": "https://github.com/pocopico",
+    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/hv_netvsc",
+    "help_url": "<todo>"
+  },
+  "releases": {
+    "ds3622xsp_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/hv_netvsc/releases/ds3622xsp_42218.json",
+    "ds3622xsp_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/hv_netvsc/releases/ds3622xsp_42218.json",
+    "ds3622xsp_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/hv_netvsc/releases/ds3622xsp_42218.json",    
+  }
+}
