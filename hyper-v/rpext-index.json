@@ -1,6 +1,6 @@
 {
   "id": "neodoughnut.hyper-v",
-  "url": "https://github.com/neodoughnut/redpill-hyperv/",
+  "url": "https://raw.githubusercontent.com/neodoughnut/redpill-hyperv/main/hyper-v/rpext-index.json",
   "info": {
     "name": "hv_netvsc",
     "description": "Adds Microsoft Hyper-V Support",
