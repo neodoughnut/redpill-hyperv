@@ -3,21 +3,26 @@
 
   "files": [
     {
-      "name": "hv_netvsc-4.4.180plus-broadwellnk.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/hv_netvsc/releases/hv_netvsc-4.4.180plus-broadwellnk.tgz",
+      "name": "hyper-v-4.4.180.tgz",
+      "url": "https://raw.githubusercontent.com/neodoughnut/redpill-hyperv/main/hyper-v/releases/hyper-v-4.4.180/hyper-v-4.4.180.tgz",
       "sha256": "5a6639b9a901bb9cb424198262bf73521bd3a45b5d922b0e2abb922f29f57bc5",
       "packed": true
     },
     {
       "name": "check-hv_netvsc.sh",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/hv_netvsc/src/check-hv_netvsc.sh",
+      "url": "https://raw.githubusercontent.com/neodoughnut/redpill-hyperv/main/hyper-v/src/check-hv_netvsc.sh",
       "sha256": "62053d1fa65851812db307c69f2cff39e62408b7e423c5a41433fb79104b0e05",
       "packed": false
     }
   ],
 
   "kmods": {
-    "hv_netvsc.ko": ""
+    "hv_vmbus.ko": "",
+    "hv_netvsc.ko": "",
+    "hv_storvsc.ko": "",
+    "hv_utils.ko": "",
+    "hv_balloon.ko": "",
+    "hyperv-keyboard.ko": "",
   },
 
     "scripts": {
