@@ -11,7 +11,7 @@
     {
       "name": "check-hv_netvsc.sh",
       "url": "https://raw.githubusercontent.com/neodoughnut/redpill-hyperv/main/hyper-v/src/check-hv_netvsc.sh",
-      "sha256": "ba995cc5b449d2f3de9e6f8c4bbcf30fc1101cd4b4dd4d503377ee28f573b5b4",
+      "sha256": "62053d1fa65851812db307c69f2cff39e62408b7e423c5a41433fb79104b0e05",
       "packed": false
     }
   ],
