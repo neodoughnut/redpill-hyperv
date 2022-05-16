@@ -22,7 +22,7 @@
     "hv_storvsc.ko": "",
     "hv_utils.ko": "",
     "hv_balloon.ko": "",
-    "hyperv-keyboard.ko": "",
+    "hyperv-keyboard.ko": ""
   },
 
     "scripts": {
